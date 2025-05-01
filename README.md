@@ -12,4 +12,4 @@ Make sure you have neccessary modules installed!
 1. Install modules from `requirements.txt`
 2. Install `pyinstaller`
 3. Execute `pyinstaller --onefile wavelet_analyzer.py`
-4. Execturable will be in `dist` folder
+4. Executable will be in `dist` folder
