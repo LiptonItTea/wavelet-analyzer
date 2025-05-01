@@ -1,0 +1,5 @@
+numpy
+pywt
+openpyxl
+pyqt6
+matplotlib
